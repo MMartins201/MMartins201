@@ -32,7 +32,9 @@
 
 ## Opa!, "Bão"? 
 
-Me chamo Matheus, Tenho 24 anos, Sou estudante de analise e desenvolvimento de sistemas pela universidade Uninove
+Sou um desenvolvedor BackEnd com expertise em JavaScript, Java, Node.js e Python. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde continuo aprimorando minhas habilidades. Embora ainda não tenha experiência profissional, estou focado em desenvolver sistemas eficientes e escaláveis, aplicando meus conhecimentos em projetos acadêmicos e pessoais.
+
+Estou comprometido em expandir meu conhecimento e me preparar para futuras oportunidades na área de desenvolvimento BackEnd, com o objetivo de contribuir de forma significativa no mercado.
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
