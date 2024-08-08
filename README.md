@@ -12,10 +12,10 @@
 
 
  <h1 align="left">Matheus Martins</h1>
- <a href="https://www.linkedin.com/in/devmatheusmartins/">
+ <a href="https://www.instagram.com/msmtheus/?next=%2F">
     <img align="left" width="80px" src="https://github.com/user-attachments/assets/7cea8117-538e-4129-9e73-0eae52d54b44" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="https://twitter.com/jeniblo_dev">
+  <a href="https://www.linkedin.com/in/devmatheusmartins/">
     <img align="left" width="80px" src="https://github.com/user-attachments/assets/86f44336-fc6c-4c8e-b40f-f21be64fa94a" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="">
